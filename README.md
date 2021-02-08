@@ -1,4 +1,4 @@
-# Identificador-de-Veiculos
+# Identificador de Veiculos
 Aplicação para identificar carros utilizando Opencv
 
 ## Instalação

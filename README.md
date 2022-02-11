@@ -1,7 +1,7 @@
-# Identificador de Veiculos
-Aplicação para identificar carros utilizando Opencv
+# Detecção de Veiculos com Opencv
+Nesse repositorio, você encontrará uma aplicação para detecção de veiculos dentro de uma área delimitada.
 
-## Instalação
+## Execução da aplicação
 #### Clonar o repositório
       $ git clone https://github.com/niveanfj/Identificador-de-Veiculos
 #### Instalação das dependencias

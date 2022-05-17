@@ -1,7 +1,10 @@
-# Detecção de Veiculos com Opencv
-Nesse repositorio, você encontrará uma aplicação para detecção de veiculos dentro de uma área delimitada.
+<h1 align="center">  Detecção de Veiculos com Opencv </h1>
+<h5 align="center"> Aplicação para detecção de veiculos dentro de uma área delimitada. </h5>
 
-## Execução da aplicação
+## ⚙ Linguagens e Ferramentas
+Python e OpenCv
+
+## 🛠 Instalação
 #### Clonar o repositório
       $ git clone https://github.com/niveanfj/Identificador-de-Veiculos
 #### Instalação das dependencias
@@ -9,8 +12,11 @@ Nesse repositorio, você encontrará uma aplicação para detecção de veiculos
 #### Executando
       cd Identificador-de-Veiculos
       python3 main.py
-#### Resultado
+## 📺 Resultado
+O quadrado em cinza corresponde a área de interesse e o preto a detecção do veiculo.
 <p align="center">
    <img src="https://github.com/niveanfj/Identificador-de-Veiculos/blob/main/resultado3.png" width="500">
  </p>
- O quadrado em cinza corresponde a área de interesse e o preto a detecção do veiculo.
+ 
+
+ 

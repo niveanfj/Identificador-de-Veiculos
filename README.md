@@ -8,7 +8,7 @@ Python e OpenCv
 #### Clonar o repositório
       $ git clone https://github.com/niveanfj/Identificador-de-Veiculos
 #### Instalação das dependencias
-      sudo apt-get install python-opencv
+      sudo pip install -r requirements.txt
 #### Executando
       cd Identificador-de-Veiculos
       python3 main.py
